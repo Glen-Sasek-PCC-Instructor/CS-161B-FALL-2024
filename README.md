@@ -1,2 +1,2 @@
 # CS-161B-FALL-2024
-Template files for starting assignments and discussions.
+Coded Examples and Template files for starting assignments and discussions.
